@@ -1,0 +1,4 @@
+# generate signatures
+sourmash compute -k 21,31,51 --scaled 1000 --track-abundance --name IDENTIFIER genome.fa
+
+# search ncbi sra
