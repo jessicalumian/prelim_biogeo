@@ -1,0 +1,45 @@
+==========================================
+SLURM_JOB_ID = 42487735
+SLURM_NODELIST = bm16
+==========================================
+MetaBAT 2 (2.15 (Bioconda)) using minContig 2500, minCV 1.0, minCVSum 1.0, maxP 95%, minS 60, maxEdges 200 and minClsSize 200000. with random seed=1639633585
+[00:00:00] Executing with 4 threads
+[00:00:00] Parsing abundance file
+[00:00:24] Parsing assembly file
+[00:03:41] Number of large contigs >= 2500 are 97. 
+[00:03:42] Reading abundance file
+[00:03:51] Finished reading 7649251 contigs and 1 coverages from 03_binning/SRR5855414/depth.txt
+[00:03:51] Number of target contigs: 0 of large (>= 2500) and 3740 of small ones (>=1000 & <2500). 
+[00:03:51] Start TNF calculation. nobs = 0
+[00:03:51] Finished TNF calculation.                                  
+[00:03:51] Preparing TNF Graph Building [pTNF = 99.9; 0 / 0 (P = -nan%) round 1]               [00:03:51] Preparing TNF Graph Building [pTNF = 99.8; 0 / 0 (P = -nan%) round 2]               [00:03:51] Preparing TNF Graph Building [pTNF = 99.7; 0 / 0 (P = -nan%) round 3]               [00:03:51] Preparing TNF Graph Building [pTNF = 99.6; 0 / 0 (P = -nan%) round 4]               [00:03:51] Preparing TNF Graph Building [pTNF = 99.5; 0 / 0 (P = -nan%) round 5]               [00:03:51] Preparing TNF Graph Building [pTNF = 99.4; 0 / 0 (P = -nan%) round 6]               [00:03:51] Preparing TNF Graph Building [pTNF = 99.2; 0 / 0 (P = -nan%) round 7]               [00:03:51] Preparing TNF Graph Building [pTNF = 99.1; 0 / 0 (P = -nan%) round 8]               [00:03:51] Preparing TNF Graph Building [pTNF = 98.8; 0 / 0 (P = -nan%) round 9]               [00:03:51] Preparing TNF Graph Building [pTNF = 98.4; 0 / 0 (P = -nan%) round 10]               [00:03:51] Preparing TNF Graph Building [pTNF = 98.1; 0 / 0 (P = -nan%) round 11]               [00:03:51] Preparing TNF Graph Building [pTNF = 97.6; 0 / 0 (P = -nan%) round 12]               [00:03:51] Preparing TNF Graph Building [pTNF = 97.1; 0 / 0 (P = -nan%) round 13]               [00:03:51] Preparing TNF Graph Building [pTNF = 96.8; 0 / 0 (P = -nan%) round 14]               [00:03:51] Preparing TNF Graph Building [pTNF = 96.3; 0 / 0 (P = -nan%) round 15]               [00:03:51] Preparing TNF Graph Building [pTNF = 96.0; 0 / 0 (P = -nan%) round 16]               [00:03:51] Preparing TNF Graph Building [pTNF = 95.5; 0 / 0 (P = -nan%) round 17]               [00:03:51] Preparing TNF Graph Building [pTNF = 95.0; 0 / 0 (P = -nan%) round 18]               [00:03:51] Preparing TNF Graph Building [pTNF = 94.7; 0 / 0 (P = -nan%) round 19]               [00:03:51] Preparing TNF Graph Building [pTNF = 94.2; 0 / 0 (P = -nan%) round 20]               [00:03:51] Preparing TNF Graph Building [pTNF = 93.8; 0 / 0 (P = -nan%) round 21]               [00:03:51] Preparing TNF Graph Building [pTNF = 93.5; 0 / 0 (P = -nan%) round 22]               [00:03:51] Preparing TNF Graph Building [pTNF = 93.0; 0 / 0 (P = -nan%) round 23]               [00:03:51] Preparing TNF Graph Building [pTNF = 92.5; 0 / 0 (P = -nan%) round 24]               [00:03:51] Preparing TNF Graph Building [pTNF = 92.0; 0 / 0 (P = -nan%) round 25]               [00:03:51] Preparing TNF Graph Building [pTNF = 91.6; 0 / 0 (P = -nan%) round 26]               [00:03:51] Preparing TNF Graph Building [pTNF = 91.3; 0 / 0 (P = -nan%) round 27]               [00:03:51] Preparing TNF Graph Building [pTNF = 90.8; 0 / 0 (P = -nan%) round 28]               [00:03:51] Preparing TNF Graph Building [pTNF = 90.5; 0 / 0 (P = -nan%) round 29]               [00:03:51] Preparing TNF Graph Building [pTNF = 90.0; 0 / 0 (P = -nan%) round 30]               [00:03:51] Preparing TNF Graph Building [pTNF = 89.0; 0 / 0 (P = -nan%) round 31]               [00:03:51] Preparing TNF Graph Building [pTNF = 87.9; 0 / 0 (P = -nan%) round 32]               [00:03:51] Preparing TNF Graph Building [pTNF = 86.8; 0 / 0 (P = -nan%) round 33]               [00:03:51] Preparing TNF Graph Building [pTNF = 85.8; 0 / 0 (P = -nan%) round 34]               [00:03:51] Preparing TNF Graph Building [pTNF = 84.7; 0 / 0 (P = -nan%) round 35]               [00:03:51] Preparing TNF Graph Building [pTNF = 83.7; 0 / 0 (P = -nan%) round 36]               [00:03:51] Preparing TNF Graph Building [pTNF = 82.8; 0 / 0 (P = -nan%) round 37]               [00:03:51] Preparing TNF Graph Building [pTNF = 81.8; 0 / 0 (P = -nan%) round 38]               [00:03:51] Preparing TNF Graph Building [pTNF = 80.8; 0 / 0 (P = -nan%) round 39]               [00:03:51] Preparing TNF Graph Building [pTNF = 79.7; 0 / 0 (P = -nan%) round 40]               [00:03:51] Preparing TNF Graph Building [pTNF = 78.8; 0 / 0 (P = -nan%) round 41]               [00:03:51] Preparing TNF Graph Building [pTNF = 77.7; 0 / 0 (P = -nan%) round 42]               [00:03:51] Preparing TNF Graph Building [pTNF = 76.8; 0 / 0 (P = -nan%) round 43]               [00:03:51] Preparing TNF Graph Building [pTNF = 75.9; 0 / 0 (P = -nan%) round 44]               [00:03:51] Preparing TNF Graph Building [pTNF = 75.0; 0 / 0 (P = -nan%) round 45]               [00:03:51] Preparing TNF Graph Building [pTNF = 73.9; 0 / 0 (P = -nan%) round 46]               [00:03:51] Preparing TNF Graph Building [pTNF = 72.9; 0 / 0 (P = -nan%) round 47]               [00:03:51] Preparing TNF Graph Building [pTNF = 72.0; 0 / 0 (P = -nan%) round 48]               [00:03:51] Preparing TNF Graph Building [pTNF = 70.9; 0 / 0 (P = -nan%) round 49]               [00:03:51] Finished Preparing TNF Graph Building [pTNF = 69.80]                                             
+[00:03:51] Finished Building TNF Graph (0 edges) [-993.0Gb / 1007.8Gb]                                          
+No edges were formed by TNF.
+[00:03:51] Rescuing singleton large contigs
+[00:03:51] There are 0 bins already
+[00:03:51] Outputting bins
+[00:03:51] -nan% (0 bases) of large (>=2500) and 0.00% (0 bases) of small (<2500) contigs were binned.
+0 bins (0 bases in total) formed.
+[00:03:51] Finished
+Name                : dryvalley_bin
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm16
+Cores               : 4
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2021-12-15T21:45:46
+Start               : 2021-12-15T21:46:21
+End                 : 2021-12-15T21:50:19
+Waited              : 00:00:35
+Reserved walltime   : 20:00:00
+Used walltime       : 00:03:58
+Used CPU time       : 00:00:33
+% User (Computation): 91.82%
+% System (I/O)      :  8.18%
+Mem reserved        : 60G/node
+Max Mem used        : 594.74M (bm16)
+Max Disk Write      : 10.24K (bm16)
+Max Disk Read       : 7.16M (bm16)

@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 41086453
+SLURM_NODELIST = c9-87
+==========================================
+Name                : greenbutte_asm
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : med
+Nodes               : c9-87
+Cores               : 24
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2021-11-22T18:31:15
+Start               : 2021-11-28T00:37:29
+End                 : 2021-11-28T08:30:01
+Waited              : 5-06:06:14
+Reserved walltime   :   20:00:00
+Used walltime       :   07:52:32
+Used CPU time       : 6-11:47:34
+% User (Computation): 99.01%
+% System (I/O)      :  0.99%
+Mem reserved        : 60G/node
+Max Mem used        : 28.43G (c9-87)
+Max Disk Write      : 10.24K (c9-87)
+Max Disk Read       : 5.63M (c9-87)

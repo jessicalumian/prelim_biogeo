@@ -1,0 +1,10 @@
+Output depth matrix to 03_binning/SRR5855414/depth.txt
+jgi_summarize_bam_contig_depths 2.15 (Bioconda) 2020-01-04T21:10:40
+Output matrix to 03_binning/SRR5855414/depth.txt
+0: Opening bam: 02_mapping/SRR5855414/SRR5855414.bam
+Processing bam files
+Thread 0 finished: SRR5855414.bam with 8415887 reads and 6354143 readsWellMapped
+Creating depth matrix file: 03_binning/SRR5855414/depth.txt
+Closing most bam files
+Closing last bam file
+Finished

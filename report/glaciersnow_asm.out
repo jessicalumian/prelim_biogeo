@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 42704913
+SLURM_NODELIST = bm7
+==========================================
+Name                : glaciersnw_asm
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm7
+Cores               : 4
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2021-12-28T07:32:07
+Start               : 2021-12-28T09:33:32
+End                 : 2021-12-29T14:53:23
+Waited              :   02:01:25
+Reserved walltime   : 2-12:00:00
+Used walltime       : 1-05:19:51
+Used CPU time       : 4-18:46:25
+% User (Computation): 99.42%
+% System (I/O)      :  0.58%
+Mem reserved        : 60G/node
+Max Mem used        : 45.56G (bm7)
+Max Disk Write      : 10.24K (bm7)
+Max Disk Read       : 5.63M (bm7)

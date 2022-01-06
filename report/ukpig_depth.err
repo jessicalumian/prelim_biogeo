@@ -1,0 +1,12 @@
+                                                                                [48;5;6m[38;5;0m[27 Dec 21 14:23:32 SORT] Sorting BAM File... May take a while depending  (...)[0m                                                                                Sorted BAM File ..............................: /home/jemizzi/biogeo/data/02_mapping/ERR3588763/ERR3588763.bam
+                                                                                [48;5;6m[38;5;0m[27 Dec 21 14:23:47 INDEX] Indexing BAM File...                                [0m                                                                                BAM File Index ...............................: /home/jemizzi/biogeo/data/02_mapping/ERR3588763/ERR3588763.bam.bai
+Output depth matrix to 03_binning/ERR3588763/depth.txt
+jgi_summarize_bam_contig_depths 2.15 (Bioconda) 2020-01-04T21:10:40
+Output matrix to 03_binning/ERR3588763/depth.txt
+0: Opening bam: 02_mapping/ERR3588763/ERR3588763.bam
+Processing bam files
+Thread 0 finished: ERR3588763.bam with 74776 reads and 15474 readsWellMapped
+Creating depth matrix file: 03_binning/ERR3588763/depth.txt
+Closing most bam files
+Closing last bam file
+Finished

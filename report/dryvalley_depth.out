@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 42449897
+SLURM_NODELIST = bm2
+==========================================
+Name                : dryvalley_depth
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm2
+Cores               : 4
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2021-12-14T21:54:41
+Start               : 2021-12-14T21:55:39
+End                 : 2021-12-14T22:39:55
+Waited              : 00:00:58
+Reserved walltime   : 04:00:00
+Used walltime       : 00:44:16
+Used CPU time       : 00:43:13
+% User (Computation): 99.88%
+% System (I/O)      :  0.12%
+Mem reserved        : 60G/node
+Max Mem used        : 640.49M (bm2)
+Max Disk Write      : 10.24K (bm2)
+Max Disk Read       : 7.16M (bm2)

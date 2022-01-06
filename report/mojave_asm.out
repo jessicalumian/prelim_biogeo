@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 42640197
+SLURM_NODELIST = bm3
+==========================================
+Name                : mojave_asm
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm3
+Cores               : 4
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2021-12-24T14:19:21
+Start               : 2021-12-24T14:20:01
+End                 : 2021-12-26T00:51:27
+Waited              :   00:00:40
+Reserved walltime   : 3-08:00:00
+Used walltime       : 1-10:31:26
+Used CPU time       : 5-14:58:42
+% User (Computation): 99.13%
+% System (I/O)      :  0.87%
+Mem reserved        : 60G/node
+Max Mem used        : 28.43G (bm3)
+Max Disk Write      : 10.24K (bm3)
+Max Disk Read       : 5.63M (bm3)

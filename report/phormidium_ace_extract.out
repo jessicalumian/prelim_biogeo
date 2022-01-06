@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 42248825
+SLURM_NODELIST = bm17
+==========================================
+Name                : phormidium_ace_extract
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm17
+Cores               : 4
+GPUs                : 0
+State               : FAILED
+ExitCode            : 1:0
+Submit              : 2021-12-12T12:49:26
+Start               : 2021-12-12T12:49:27
+End                 : 2021-12-12T12:54:05
+Waited              : 00:00:01
+Reserved walltime   : 20:00:00
+Used walltime       : 00:04:38
+Used CPU time       : 00:03:33
+% User (Computation): 96.61%
+% System (I/O)      :  3.39%
+Mem reserved        : 60G/node
+Max Mem used        : 7.93M (bm17)
+Max Disk Write      : 10.24K (bm17)
+Max Disk Read       : 7.15M (bm17)

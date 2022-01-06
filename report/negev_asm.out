@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 42704974
+SLURM_NODELIST = bm7
+==========================================
+Name                : negev_asm
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm7
+Cores               : 4
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2021-12-28T07:39:42
+Start               : 2021-12-28T09:33:32
+End                 : 2021-12-28T22:09:08
+Waited              :   01:53:50
+Reserved walltime   : 2-12:00:00
+Used walltime       :   12:35:36
+Used CPU time       : 2-01:38:55
+% User (Computation): 99.50%
+% System (I/O)      :  0.50%
+Mem reserved        : 60G/node
+Max Mem used        : 23.16G (bm7)
+Max Disk Write      : 10.24K (bm7)
+Max Disk Read       : 5.63M (bm7)

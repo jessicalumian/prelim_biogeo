@@ -1,0 +1,35 @@
+==========================================
+SLURM_JOB_ID = 42874706
+SLURM_NODELIST = bm16
+==========================================
+MetaBAT 2 (2.15 (Bioconda)) using minContig 2500, minCV 1.0, minCVSum 1.0, maxP 95%, minS 60, maxEdges 200 and minClsSize 200000. with random seed=1641410606
+No edges were formed by TNF.
+0 bins (0 bases in total) formed.
+[2022-01-05 11:24:53] INFO: CheckM v1.1.3
+[2022-01-05 11:24:53] INFO: checkm lineage_wf --reduced_tree -x fa 03_binning/SRR5891573 03_binning/SRR5891573/checkm_lineage
+[2022-01-05 11:24:53] INFO: [CheckM - tree] Placing bins in reference genome tree.
+[2022-01-05 11:24:53] ERROR: No bins found. Check the extension (-x) used to identify bins.
+
+  Controlled exit resulting from an unrecoverable error or warning.
+Name                : glaciersnow_bin
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm16
+Cores               : 4
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2022-01-05T11:22:57
+Start               : 2022-01-05T11:23:23
+End                 : 2022-01-05T11:24:55
+Waited              : 00:00:26
+Reserved walltime   : 20:00:00
+Used walltime       : 00:01:32
+Used CPU time       : 00:00:28
+% User (Computation): 89.57%
+% System (I/O)      : 10.43%
+Mem reserved        : 60G/node
+Max Mem used        : 530.85M (bm16)
+Max Disk Write      : 10.24K (bm16)
+Max Disk Read       : 3.14G (bm16)

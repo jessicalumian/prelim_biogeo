@@ -1,0 +1,28 @@
+Building a SMALL index
+14572386 reads; of these:
+  14572386 (100.00%) were paired; of these:
+    14572381 (100.00%) aligned concordantly 0 times
+    5 (0.00%) aligned concordantly exactly 1 time
+    0 (0.00%) aligned concordantly >1 times
+    ----
+    14572381 pairs aligned concordantly 0 times; of these:
+      719748 (4.94%) aligned discordantly 1 time
+    ----
+    13852633 pairs aligned 0 times concordantly or discordantly; of these:
+      27705266 mates make up the pairs; of these:
+        23703826 (85.56%) aligned 0 times
+        3958361 (14.29%) aligned exactly 1 time
+        43079 (0.16%) aligned >1 times
+18.67% overall alignment rate
+                                                                                [48;5;6m[38;5;0m[05 Jan 22 00:08:32 SORT] Sorting BAM File... May take a while depending  (...)[0m                                                                                Sorted BAM File ..............................: /home/jemizzi/biogeo/data/02_mapping/SRR6266338/SRR6266338.bam
+                                                                                [48;5;6m[38;5;0m[05 Jan 22 00:13:10 INDEX] Indexing BAM File...                                [0m                                                                                BAM File Index ...............................: /home/jemizzi/biogeo/data/02_mapping/SRR6266338/SRR6266338.bam.bai
+Output depth matrix to 03_binning/SRR6266338/depth.txt
+jgi_summarize_bam_contig_depths 2.15 (Bioconda) 2020-01-04T21:10:40
+Output matrix to 03_binning/SRR6266338/depth.txt
+0: Opening bam: 02_mapping/SRR6266338/SRR6266338.bam
+Processing bam files
+Thread 0 finished: SRR6266338.bam with 5440946 reads and 3698915 readsWellMapped
+Creating depth matrix file: 03_binning/SRR6266338/depth.txt
+Closing most bam files
+Closing last bam file
+Finished

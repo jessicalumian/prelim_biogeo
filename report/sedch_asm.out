@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 41624717
+SLURM_NODELIST = bm2
+==========================================
+Name                : sedch_asm
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm2
+Cores               : 4
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2021-12-01T08:08:17
+Start               : 2021-12-01T08:08:18
+End                 : 2021-12-02T01:22:56
+Waited              :   00:00:01
+Reserved walltime   :   20:00:00
+Used walltime       :   17:14:38
+Used CPU time       : 2-18:49:02
+% User (Computation): 99.59%
+% System (I/O)      :  0.41%
+Mem reserved        : 60G/node
+Max Mem used        : 20.21G (bm2)
+Max Disk Write      : 10.24K (bm2)
+Max Disk Read       : 5.63M (bm2)

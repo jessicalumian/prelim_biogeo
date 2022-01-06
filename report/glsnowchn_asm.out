@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 42450161
+SLURM_NODELIST = bm1
+==========================================
+Name                : glsnowchn_asm
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm1
+Cores               : 4
+GPUs                : 0
+State               : TIMEOUT
+ExitCode            : 0:0
+Submit              : 2021-12-14T22:23:36
+Start               : 2021-12-14T22:23:44
+End                 : 2021-12-15T18:23:57
+Waited              : 00:00:08
+Reserved walltime   : 20:00:00
+Used walltime       : 20:00:09
+Used CPU time       : 00:00:00
+% User (Computation): --
+% System (I/O)      : --
+Mem reserved        : 60G/node
+Max Mem used        : --
+Max Disk Write      : --
+Max Disk Read       : --

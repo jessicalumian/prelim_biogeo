@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 42579903
+SLURM_NODELIST = bm3
+==========================================
+Name                : ukpig_asm
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm3
+Cores               : 4
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2021-12-22T10:28:00
+Start               : 2021-12-22T10:28:34
+End                 : 2021-12-23T02:48:36
+Waited              :   00:00:34
+Reserved walltime   :   20:00:00
+Used walltime       :   16:20:02
+Used CPU time       : 2-16:08:32
+% User (Computation): 99.57%
+% System (I/O)      :  0.43%
+Mem reserved        : 60G/node
+Max Mem used        : 24.90G (bm3)
+Max Disk Write      : 10.24K (bm3)
+Max Disk Read       : 5.63M (bm3)

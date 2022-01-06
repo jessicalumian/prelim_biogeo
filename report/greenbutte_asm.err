@@ -1,0 +1,32 @@
+Module megahit/1.0.6 loaded 
+62.88Gb memory in total.
+Using: 56.592Gb.
+MEGAHIT v1.0.6
+--- [Sun Nov 28 00:37:35 2021] Start assembly. Number of CPU threads 24 ---
+--- [Sun Nov 28 00:37:35 2021] Available memory: 67516358656, used: 60764722790
+--- [Sun Nov 28 00:37:35 2021] k list: 21,41,61,81,99 ---
+--- [Sun Nov 28 00:37:35 2021] Converting reads to binaries ---
+b'    [read_lib_functions-inl.h  : 209]     Lib 0 (SRR5855413.fastq.gz): interleaved, 44584488 reads, 300 max length'
+b'    [utils.h                   : 126]     Real: 328.7949\tuser: 122.8165\tsys: 17.9471\tmaxrss: 149580'
+--- [Sun Nov 28 00:43:04 2021] Extracting solid (k+1)-mers for k = 21 ---
+--- [Sun Nov 28 00:54:25 2021] Building graph for k = 21 ---
+--- [Sun Nov 28 01:15:30 2021] Assembling contigs from SdBG for k = 21 ---
+--- [Sun Nov 28 01:59:00 2021] Local assembling k = 21 ---
+--- [Sun Nov 28 02:14:07 2021] Extracting iterative edges from k = 21 to 41 ---
+--- [Sun Nov 28 02:26:19 2021] Building graph for k = 41 ---
+--- [Sun Nov 28 02:42:22 2021] Assembling contigs from SdBG for k = 41 ---
+--- [Sun Nov 28 03:21:07 2021] Local assembling k = 41 ---
+--- [Sun Nov 28 04:12:36 2021] Extracting iterative edges from k = 41 to 61 ---
+--- [Sun Nov 28 04:23:11 2021] Building graph for k = 61 ---
+--- [Sun Nov 28 04:46:22 2021] Assembling contigs from SdBG for k = 61 ---
+--- [Sun Nov 28 05:35:35 2021] Local assembling k = 61 ---
+--- [Sun Nov 28 05:57:23 2021] Extracting iterative edges from k = 61 to 81 ---
+--- [Sun Nov 28 06:07:25 2021] Building graph for k = 81 ---
+--- [Sun Nov 28 06:24:09 2021] Assembling contigs from SdBG for k = 81 ---
+--- [Sun Nov 28 07:12:44 2021] Local assembling k = 81 ---
+--- [Sun Nov 28 07:27:56 2021] Extracting iterative edges from k = 81 to 99 ---
+--- [Sun Nov 28 07:36:23 2021] Building graph for k = 99 ---
+--- [Sun Nov 28 07:48:03 2021] Assembling contigs from SdBG for k = 99 ---
+--- [Sun Nov 28 08:29:38 2021] Merging to output final contigs ---
+--- [STAT] 6591683 contigs, total 2313472281 bp, min 200 bp, max 4619 bp, avg 351 bp, N50 300 bp
+--- [Sun Nov 28 08:29:55 2021] ALL DONE. Time elapsed: 28340.426794 seconds ---

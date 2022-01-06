@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 42397832
+SLURM_NODELIST = bm6
+==========================================
+Name                : neolepto_asm
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm6
+Cores               : 12
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2021-12-13T16:41:01
+Start               : 2021-12-13T16:41:02
+End                 : 2021-12-15T08:33:20
+Waited              :    00:00:01
+Reserved walltime   :  2-12:00:00
+Used walltime       :  1-15:42:41
+Used CPU time       : 15-15:06:31
+% User (Computation): 98.71%
+% System (I/O)      :  1.29%
+Mem reserved        : 120G/node
+Max Mem used        : 82.93G (bm6)
+Max Disk Write      : 10.24K (bm6)
+Max Disk Read       : 5.63M (bm6)

@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 42692358
+SLURM_NODELIST = bm5
+==========================================
+Name                : sonoran_depth
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm5
+Cores               : 4
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2021-12-27T08:01:50
+Start               : 2021-12-27T14:22:52
+End                 : 2021-12-27T14:24:20
+Waited              : 06:21:02
+Reserved walltime   : 04:00:00
+Used walltime       : 00:01:28
+Used CPU time       : 00:00:55
+% User (Computation): 89.51%
+% System (I/O)      : 10.48%
+Mem reserved        : 60G/node
+Max Mem used        : 200.51M (bm5)
+Max Disk Write      : 136.18M (bm5)
+Max Disk Read       : 201.91M (bm5)

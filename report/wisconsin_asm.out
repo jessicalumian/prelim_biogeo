@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 42704958
+SLURM_NODELIST = bm7
+==========================================
+Name                : wisconsin_asm
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm7
+Cores               : 4
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2021-12-28T07:38:58
+Start               : 2021-12-28T09:33:32
+End                 : 2021-12-30T07:34:57
+Waited              :   01:54:34
+Reserved walltime   : 2-12:00:00
+Used walltime       : 1-22:01:25
+Used CPU time       : 7-07:22:13
+% User (Computation): 98.97%
+% System (I/O)      :  1.03%
+Mem reserved        : 60G/node
+Max Mem used        : 43.59G (bm7)
+Max Disk Write      : 10.24K (bm7)
+Max Disk Read       : 5.63M (bm7)

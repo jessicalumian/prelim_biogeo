@@ -1,0 +1,12 @@
+Module megahit/1.0.6 loaded 
+1003.926Gb memory in total.
+Using: 903.533Gb.
+MEGAHIT v1.0.6
+--- [Fri Dec 10 21:56:44 2021] Start assembly. Number of CPU threads 96 ---
+--- [Fri Dec 10 21:56:44 2021] Available memory: 1077957013504, used: 970161312153
+--- [Fri Dec 10 21:56:44 2021] k list: 21,41,61,81,99 ---
+--- [Fri Dec 10 21:56:44 2021] Converting reads to binaries ---
+b'    [ERROR] [read_lib_functions-inl.h : 203]: PE library number of reads is odd: 13819877!'
+b'    [ERROR] [read_lib_functions-inl.h : 204]: File(s): SRR5216658.fastq.gz'
+Error occurs when running "megahit_asm_core buildlib"; please refer to 01_megahit/SRR5216658/log for detail
+[Exit code 1]

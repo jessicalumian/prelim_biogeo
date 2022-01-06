@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 42704965
+SLURM_NODELIST = bm7
+==========================================
+Name                : puca_asm
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm7
+Cores               : 4
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2021-12-28T07:39:14
+Start               : 2021-12-28T09:33:32
+End                 : 2021-12-28T14:06:12
+Waited              :   01:54:18
+Reserved walltime   : 3-08:00:00
+Used walltime       :   04:32:40
+Used CPU time       :   17:49:22
+% User (Computation): 99.49%
+% System (I/O)      :  0.51%
+Mem reserved        : 60G/node
+Max Mem used        : 13.59G (bm7)
+Max Disk Write      : 10.24K (bm7)
+Max Disk Read       : 5.63M (bm7)

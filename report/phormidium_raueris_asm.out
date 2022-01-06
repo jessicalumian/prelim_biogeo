@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 42711568
+SLURM_NODELIST = bm8
+==========================================
+Name                : phorm_raueris
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm8
+Cores               : 4
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2021-12-28T16:40:14
+Start               : 2021-12-29T06:30:13
+End                 : 2021-12-29T13:21:24
+Waited              :   13:49:59
+Reserved walltime   : 2-12:00:00
+Used walltime       :   06:51:11
+Used CPU time       : 1-02:39:39
+% User (Computation): 99.40%
+% System (I/O)      :  0.60%
+Mem reserved        : 60G/node
+Max Mem used        : 11.11G (bm8)
+Max Disk Write      : 10.24K (bm8)
+Max Disk Read       : 5.63M (bm8)

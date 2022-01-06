@@ -1,0 +1,13 @@
+mkdir: cannot create directory ‘03_binning/SRR5247052’: File exists
+                                                                                [48;5;6m[38;5;0m[27 Dec 21 14:23:32 SORT] Sorting BAM File... May take a while depending  (...)[0m                                                                                Sorted BAM File ..............................: /home/jemizzi/biogeo/data/02_mapping/SRR5247052/SRR5247052.bam
+                                                                                [48;5;6m[38;5;0m[27 Dec 21 14:23:48 INDEX] Indexing BAM File...                                [0m                                                                                BAM File Index ...............................: /home/jemizzi/biogeo/data/02_mapping/SRR5247052/SRR5247052.bam.bai
+Output depth matrix to 03_binning/SRR5247052/depth.txt
+jgi_summarize_bam_contig_depths 2.15 (Bioconda) 2020-01-04T21:10:40
+Output matrix to 03_binning/SRR5247052/depth.txt
+0: Opening bam: 02_mapping/SRR5247052/SRR5247052.bam
+Processing bam files
+Thread 0 finished: SRR5247052.bam with 76216 reads and 244 readsWellMapped
+Creating depth matrix file: 03_binning/SRR5247052/depth.txt
+Closing most bam files
+Closing last bam file
+Finished

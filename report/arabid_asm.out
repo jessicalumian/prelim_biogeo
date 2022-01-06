@@ -1,0 +1,26 @@
+==========================================
+SLURM_JOB_ID = 42640274
+SLURM_NODELIST = bm14
+==========================================
+Name                : arabid_asm
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm14
+Cores               : 4
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2021-12-24T14:27:39
+Start               : 2021-12-24T14:27:41
+End                 : 2021-12-25T12:49:52
+Waited              :   00:00:02
+Reserved walltime   : 2-12:00:00
+Used walltime       :   22:22:11
+Used CPU time       : 3-15:54:47
+% User (Computation): 99.45%
+% System (I/O)      :  0.55%
+Mem reserved        : 60G/node
+Max Mem used        : 26.33G (bm14)
+Max Disk Write      : 10.24K (bm14)
+Max Disk Read       : 5.63M (bm14)

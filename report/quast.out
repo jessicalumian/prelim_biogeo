@@ -1,0 +1,398 @@
+==========================================
+SLURM_JOB_ID = 42743527
+SLURM_NODELIST = bm5
+==========================================
+/home/jemizzi/miniconda3/envs/quast/bin/quast.py 01_megahit/SRR5216658/final.contigs.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-5.4.0-90-generic-x86_64-with-debian-buster-sid (linux_64)
+  Python version: 3.7.12
+  CPUs number: 96
+
+Started: 2021-12-30 09:06:39
+
+Logging to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_06_39/quast.log
+NOTICE: Maximum number of threads is set to 24 (use --threads option to set it manually)
+
+CWD: /home/jemizzi/biogeo/data
+Main parameters: 
+  MODE: default, threads: 24, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  01_megahit/SRR5216658/final.contigs.fa ==> final.contigs
+
+2021-12-30 09:07:06
+Running Basic statistics processor...
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 794, L50 = 74367, Total length = 212798142, GC % = 46.76, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_06_39/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_06_39/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_06_39/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_06_39/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2021-12-30 09:07:22
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2021-12-30 09:07:27
+RESULTS:
+  Text versions of total report are saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_06_39/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_06_39/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_06_39/report.html
+  PDF version (tables and plots) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_06_39/report.pdf
+  Icarus (contig browser) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_06_39/icarus.html
+  Log is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_06_39/quast.log
+
+Finished: 2021-12-30 09:07:27
+Elapsed time: 0:00:47.961165
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/home/jemizzi/miniconda3/envs/quast/bin/quast.py 01_megahit/SRR5891573/final.contigs.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-5.4.0-90-generic-x86_64-with-debian-buster-sid (linux_64)
+  Python version: 3.7.12
+  CPUs number: 96
+
+Started: 2021-12-30 09:07:28
+
+Logging to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_07_28/quast.log
+NOTICE: Maximum number of threads is set to 24 (use --threads option to set it manually)
+
+CWD: /home/jemizzi/biogeo/data
+Main parameters: 
+  MODE: default, threads: 24, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  01_megahit/SRR5891573/final.contigs.fa ==> final.contigs
+
+2021-12-30 09:09:03
+Running Basic statistics processor...
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 606, L50 = 409631, Total length = 619490337, GC % = 61.46, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_07_28/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_07_28/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_07_28/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_07_28/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2021-12-30 09:09:47
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2021-12-30 09:10:03
+RESULTS:
+  Text versions of total report are saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_07_28/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_07_28/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_07_28/report.html
+  PDF version (tables and plots) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_07_28/report.pdf
+  Icarus (contig browser) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_07_28/icarus.html
+  Log is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_07_28/quast.log
+
+Finished: 2021-12-30 09:10:03
+Elapsed time: 0:02:35.151647
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/home/jemizzi/miniconda3/envs/quast/bin/quast.py 01_megahit/SRR7528444/final.contigs.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-5.4.0-90-generic-x86_64-with-debian-buster-sid (linux_64)
+  Python version: 3.7.12
+  CPUs number: 96
+
+Started: 2021-12-30 09:10:03
+
+Logging to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_03/quast.log
+NOTICE: Maximum number of threads is set to 24 (use --threads option to set it manually)
+
+CWD: /home/jemizzi/biogeo/data
+Main parameters: 
+  MODE: default, threads: 24, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  01_megahit/SRR7528444/final.contigs.fa ==> final.contigs
+
+2021-12-30 09:10:26
+Running Basic statistics processor...
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 822, L50 = 57783, Total length = 195047488, GC % = 48.17, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_03/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_03/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_03/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_03/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2021-12-30 09:10:40
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2021-12-30 09:10:44
+RESULTS:
+  Text versions of total report are saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_03/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_03/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_03/report.html
+  PDF version (tables and plots) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_03/report.pdf
+  Icarus (contig browser) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_03/icarus.html
+  Log is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_03/quast.log
+
+Finished: 2021-12-30 09:10:44
+Elapsed time: 0:00:40.785686
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/home/jemizzi/miniconda3/envs/quast/bin/quast.py 01_megahit/SRR7428116/final.contigs.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-5.4.0-90-generic-x86_64-with-debian-buster-sid (linux_64)
+  Python version: 3.7.12
+  CPUs number: 96
+
+Started: 2021-12-30 09:10:45
+
+Logging to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_45/quast.log
+NOTICE: Maximum number of threads is set to 24 (use --threads option to set it manually)
+
+CWD: /home/jemizzi/biogeo/data
+Main parameters: 
+  MODE: default, threads: 24, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  01_megahit/SRR7428116/final.contigs.fa ==> final.contigs
+
+2021-12-30 09:11:23
+Running Basic statistics processor...
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 732, L50 = 146664, Total length = 371142339, GC % = 51.52, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_45/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_45/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_45/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_45/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2021-12-30 09:11:50
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2021-12-30 09:11:58
+RESULTS:
+  Text versions of total report are saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_45/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_45/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_45/report.html
+  PDF version (tables and plots) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_45/report.pdf
+  Icarus (contig browser) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_45/icarus.html
+  Log is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_10_45/quast.log
+
+Finished: 2021-12-30 09:11:58
+Elapsed time: 0:01:13.638288
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/home/jemizzi/miniconda3/envs/quast/bin/quast.py 01_megahit/SRR5459769/final.contigs.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-5.4.0-90-generic-x86_64-with-debian-buster-sid (linux_64)
+  Python version: 3.7.12
+  CPUs number: 96
+
+Started: 2021-12-30 09:11:59
+
+Logging to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_11_59/quast.log
+NOTICE: Maximum number of threads is set to 24 (use --threads option to set it manually)
+
+CWD: /home/jemizzi/biogeo/data
+Main parameters: 
+  MODE: default, threads: 24, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  01_megahit/SRR5459769/final.contigs.fa ==> final.contigs
+
+2021-12-30 09:13:42
+Running Basic statistics processor...
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 819, L50 = 370507, Total length = 1086536868, GC % = 49.13, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_11_59/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_11_59/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_11_59/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_11_59/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2021-12-30 09:14:55
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2021-12-30 09:15:15
+RESULTS:
+  Text versions of total report are saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_11_59/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_11_59/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_11_59/report.html
+  PDF version (tables and plots) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_11_59/report.pdf
+  Icarus (contig browser) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_11_59/icarus.html
+  Log is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_11_59/quast.log
+
+Finished: 2021-12-30 09:15:15
+Elapsed time: 0:03:16.375290
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+/home/jemizzi/miniconda3/envs/quast/bin/quast.py 01_megahit/SRR12473531/final.contigs.fa
+
+Version: 5.0.2
+
+System information:
+  OS: Linux-5.4.0-90-generic-x86_64-with-debian-buster-sid (linux_64)
+  Python version: 3.7.12
+  CPUs number: 96
+
+Started: 2021-12-30 09:15:16
+
+Logging to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_15_16/quast.log
+NOTICE: Maximum number of threads is set to 24 (use --threads option to set it manually)
+
+CWD: /home/jemizzi/biogeo/data
+Main parameters: 
+  MODE: default, threads: 24, minimum contig length: 500, minimum alignment length: 65, \
+  ambiguity: one, threshold for extensive misassembly size: 1000
+
+Contigs:
+  Pre-processing...
+  01_megahit/SRR12473531/final.contigs.fa ==> final.contigs
+
+2021-12-30 09:15:47
+Running Basic statistics processor...
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 600, L50 = 124258, Total length = 187591328, GC % = 67.03, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_15_16/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_15_16/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_15_16/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_15_16/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2021-12-30 09:16:01
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2021-12-30 09:16:05
+RESULTS:
+  Text versions of total report are saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_15_16/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_15_16/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_15_16/report.html
+  PDF version (tables and plots) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_15_16/report.pdf
+  Icarus (contig browser) is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_15_16/icarus.html
+  Log is saved to /home/jemizzi/biogeo/data/quast_results/results_2021_12_30_09_15_16/quast.log
+
+Finished: 2021-12-30 09:16:05
+Elapsed time: 0:00:49.484706
+NOTICEs: 2; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
+Name                : quast
+User                : jemizzi
+Account             : ctbrowngrp
+Partition           : bmm
+Nodes               : bm5
+Cores               : 4
+GPUs                : 0
+State               : COMPLETED
+ExitCode            : 0:0
+Submit              : 2021-12-30T09:05:07
+Start               : 2021-12-30T09:06:36
+End                 : 2021-12-30T09:16:10
+Waited              : 00:01:29
+Reserved walltime   : 20:00:00
+Used walltime       : 00:09:34
+Used CPU time       : 00:08:45
+% User (Computation): 92.61%
+% System (I/O)      :  7.39%
+Mem reserved        : 60G/node
+Max Mem used        : 1.96G (bm5)
+Max Disk Write      : 2.42G (bm5)
+Max Disk Read       : 22.32G (bm5)
